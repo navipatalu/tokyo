@@ -1,2 +1,3 @@
 john
 amy
+adding third line to file1.txt
